@@ -1,0 +1,1 @@
+# renovate-bot-lombok-plugin-minimal-repo
