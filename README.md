@@ -1,5 +1,5 @@
 # Renovate Bot Lombok Plugin minimal repo
-Minimal repo for Renovate Bot [issue 13251](https://github.com/renovatebot/renovate/issues/13251).
+Minimal repo for Renovate Bot [issue 13333](https://github.com/renovatebot/renovate/issues/13333).
 
 ## Expected Behaviour
 
